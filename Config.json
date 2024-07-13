@@ -1,0 +1,13 @@
+{
+    "ads": {
+      "admobBannerIdAndroid": "ca-app-pub-3940256099942544/9214589741",
+      "admobInterstitialIdAndroid": "ca-app-pub-3940256099942544/1033173712",
+      "admobRewardedIdAndroid": "ca-app-pub-3940256099942544/5224354917",
+      "admobBannerIdIOS": "",
+      "admobInterstitialIdIOS": "",
+      "admobRewardedIdIOS": "",
+      "unityGameIdAndroid": "5453665",
+      "unityGameIdIOS": "5453665"
+  
+    }
+  }
